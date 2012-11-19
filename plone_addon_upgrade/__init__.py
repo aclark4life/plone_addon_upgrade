@@ -1,3 +1,3 @@
 
-def upgrade_001(self):
+def upgrade_001(context):
     pass
