@@ -9,4 +9,10 @@
         provides="Products.GenericSetup.interfaces.EXTENSION"
         />
 
+    <gs:upgradeStep
+        handler=".upgrade_001"
+        profile="plone_addon_upgrade:default"
+        title="Completely extend tactical methods of empowerment through enabled resources. Interactively monetize efficient value and cutting-edge partnerships. Rapidiously pursue competitive e-commerce rather than impactful schemas."
+        />
+
 </configure>
